@@ -1,3 +1,2 @@
 # cmpe250-project5-ogegulec
-cmpe250-project5-ogegulec created by GitHub Classroom
-CMPE 250 project5
+Project5 for cmpe 250 using dynamic programming to write a program
